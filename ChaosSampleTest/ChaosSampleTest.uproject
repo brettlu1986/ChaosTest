@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A9D02AE3-46B3-FFA7-6926-43A8B4786ACE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ChaosSampleTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
